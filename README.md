@@ -2,7 +2,7 @@ LearnTemplateMetaProgramming
 ====
 I'm novice at C++ Template Meta Programming. This repository is for studying.
 I implemented :
--STL Combination
+- STL Combination
 - Time Estimation Function for Algorithm
 - pow FUnction
 
